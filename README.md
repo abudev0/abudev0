@@ -13,7 +13,7 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/codes_abdulazizbek)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-green)](https://t.me/abdulazizbek_coder)
 
 
 <div align="center">
