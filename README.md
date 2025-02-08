@@ -27,6 +27,27 @@
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 
+<div align="center">
+  <h2 align="center" class="section-heading"> 💻 GitHub Stats</h2>
+  <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+  <table align="center" width="100%" height="100%">
+    <tr>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulazizbekAbdusodiqov&theme=merko" alt="Contribution Streak"/></td>
+    </tr>
+  </table>
+
+  <table align="center" width="100%" height="100%">
+    <tr>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulazizbekAbdusodiqov&theme=github_dark&utcOffset=10" alt="GitHub Productive Time"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Repos Per Language"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="Most Commit Language"/></td>
+    </tr>
+  </table>
+</div>
+
+
 <div style="text-align: center;">
         <h2>🎯 Future Goals</h2>
         <p>In the future, I aim to enhance my skills in the following areas:</p>
