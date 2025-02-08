@@ -47,6 +47,11 @@
   </table>
 </div>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulazizbekAbdusodiqov&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
 
 <div style="text-align: center;">
         <h2>🎯 Future Goals</h2>
