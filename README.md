@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
 </div>
-<!--
+
 <div align="center">
   <h2 align="center" class="section-heading"> 💻 GitHub Stats</h2>
   <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
@@ -62,8 +62,7 @@
       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz_c5&theme=merko" alt="Abdulaziz_c5's Contribution Streak"/></td>
     </tr>
   </table>
--->
-<!--
+    
   <table align="center" width="100%" height="100%">
     <tr>
       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulaziz_c5&theme=github_dark" alt="Abdulaziz_c5's GitHub Stats"/></td>
@@ -73,7 +72,7 @@
     </tr>
   </table>
 </div>
--->
+
 
 <div style="text-align: center;">
         <h2>🎯 Future Goals</h2>
