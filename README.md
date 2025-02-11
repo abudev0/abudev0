@@ -53,16 +53,5 @@
 </p>
 
 
-<div style="text-align: center;">
-        <h2>🎯 Future Goals</h2>
-        <p>In the future, I aim to enhance my skills in the following areas:</p>
-        <ul>
-            <li>Full-stack web development</li>
-            <li>Mobile application development</li>
-            <li>Basics of artificial intelligence and machine learning</li>
-            <li>Software architecture</li>
-        </ul>
-    </div>
-
 </body>
 </html>
