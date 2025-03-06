@@ -49,7 +49,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulazizbekAbdusodiqov&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulazizbekAbdusodiqov&theme=darkhub&no-frame=true&margin-w=30&margin-h=30"/>
 </p>
 
 
