@@ -32,24 +32,24 @@
   <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
   <table align="center" width="100%" height="100%">
     <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulazizbekAbdusodiqov&theme=merko" alt="Contribution Streak"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abudev0&theme=github_dark" alt="GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=abudev0&theme=merko" alt="Contribution Streak"/></td>
     </tr>
   </table>
 
   <table align="center" width="100%" height="100%">
     <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulazizbekAbdusodiqov&theme=github_dark&utcOffset=10" alt="GitHub Productive Time"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="GitHub Repos Per Language"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulazizbekAbdusodiqov&theme=github_dark" alt="Most Commit Language"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abudev0&theme=github_dark" alt="GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abudev0&theme=github_dark&utcOffset=10" alt="GitHub Productive Time"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abudev0&theme=github_dark" alt="GitHub Repos Per Language"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abudev0&theme=github_dark" alt="Most Commit Language"/></td>
     </tr>
   </table>
 </div>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulazizbekAbdusodiqov&theme=darkhub&no-frame=true&margin-w=30&margin-h=30"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abudev0&theme=darkhub&no-frame=true&margin-w=30&margin-h=30"/>
 </p>
 
 
