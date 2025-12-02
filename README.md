@@ -47,11 +47,5 @@
   </table>
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abudev0&theme=darkhub&no-frame=true&margin-w=30&margin-h=30"/>
-</p>
-
-
 </body>
 </html>
