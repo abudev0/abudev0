@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-        <p>I'm an emerging developer from Uzbekistan. My technical skills primarily encompass Python and C programming languages, MySQL database, and  a JavaScript solution. I'm passionate about deepening my knowledge in programming and expanding my practical experience in the field of software development.
+        <p>I am a Fullstack and Mobile Developer from Uzbekistan with strong expertise in Python, C, and relational databases — particularly PostgreSQL, which I prefer for its advanced features and performance capabilities. I also have solid experience working with MySQL in production environments. <br/> I design scalable backend systems, structured database architectures, and efficient APIs using modern JavaScript technologies. I am passionate about clean code, system design, and continuously improving my technical depth through real-world projects and architectural best practices.
 </p>
 </div>
 
