@@ -11,9 +11,17 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    
+<h2 align="center">🌐 Let's Connect</h2>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-green)](https://t.me/abdulazizbek_coder)
+<p align="center">
+  <a href="https://t.me/abdulazizbek_coder">
+    <img src="https://img.shields.io/badge/Telegram-@abdulazizbek__coder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 <div align="center">
