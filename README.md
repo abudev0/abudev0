@@ -3,6 +3,8 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
+
+
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
