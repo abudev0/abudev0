@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=900&lines=Abdulazizbek+%7C+Fullstack+%2B+Mobile+Developer;Backend+Architecture+%7C+Clean+Code+%7C+Scalable+Systems;PostgreSQL+Lover+%7C+API+Builder+%7C+Problem+Solver" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00F5A0&center=true&vCenter=true&width=700&lines=Abdulazizbek+%7C+Fullstack+Developer;Clean+Code+%7C+Scalable+Systems;PostgreSQL+%7C+API+Builder" alt="Typing Intro" />
   <br />
   <img src="termina-gh.gif" alt="Terminal Animation" />
   <br />
@@ -8,88 +8,23 @@
   <img src="https://img.shields.io/github/stars/abudev0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=16a34a" alt="Stars" />
 </div>
 
-<p align="center">
-  <b>Language:</b>
-  <a href="#uz">O'zbek</a> |
-  <a href="#en">English</a> |
-  <a href="#ru">Русский</a>
-</p>
-
-<h2 id="uz" align="center">Men Haqimda (UZ)</h2>
+<h2 align="center">Choose Language</h2>
 
 <p align="center">
-Men O'zbekistondan Fullstack va Mobile dasturchiman.
-Asosiy e'tiborim production darajasidagi ishonchli mahsulotlar yaratish:
-scalable backend, toza API, va puxta database arxitekturasi.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fokus-API_Dizayn-111827?style=for-the-badge&logo=fastapi&logoColor=00f5a0" alt="API Dizayn" />
-  <img src="https://img.shields.io/badge/Fokus-Ma'lumotlar_Bazasi_Arxitekturasi-111827?style=for-the-badge&logo=postgresql&logoColor=00f5a0" alt="Database Arxitekturasi" />
-  <img src="https://img.shields.io/badge/Fokus-Tizim_Dizayni-111827?style=for-the-badge&logo=dependabot&logoColor=00f5a0" alt="Tizim Dizayni" />
-  <img src="https://img.shields.io/badge/Fokus-Performance_Optimization-111827?style=for-the-badge&logo=nginx&logoColor=00f5a0" alt="Performance" />
-</p>
-
-<h2 id="en" align="center">About Me (EN)</h2>
-
-<p align="center">
-I am a Fullstack and Mobile Developer from Uzbekistan focused on building reliable production-grade products.
-I design scalable backends, clean APIs, and database-first architectures with strong emphasis on
-performance, maintainability, and long-term scalability.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-API_Design-111827?style=for-the-badge&logo=fastapi&logoColor=00f5a0" alt="API Design" />
-  <img src="https://img.shields.io/badge/Focus-Database_Architecture-111827?style=for-the-badge&logo=postgresql&logoColor=00f5a0" alt="Database Architecture" />
-  <img src="https://img.shields.io/badge/Focus-System_Design-111827?style=for-the-badge&logo=dependabot&logoColor=00f5a0" alt="System Design" />
-  <img src="https://img.shields.io/badge/Focus-Performance_Tuning-111827?style=for-the-badge&logo=nginx&logoColor=00f5a0" alt="Performance Tuning" />
-</p>
-
-<h2 id="ru" align="center">Обо Мне (RU)</h2>
-
-<p align="center">
-Я Fullstack и Mobile разработчик из Узбекистана.
-Я создаю надежные продукты production-уровня: масштабируемые backend-системы,
-чистые API и database-first архитектуры с фокусом на производительность и поддерживаемость.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Фокус-API_Архитектура-111827?style=for-the-badge&logo=fastapi&logoColor=00f5a0" alt="API Architecture" />
-  <img src="https://img.shields.io/badge/Фокус-Архитектура_БД-111827?style=for-the-badge&logo=postgresql&logoColor=00f5a0" alt="DB Architecture" />
-  <img src="https://img.shields.io/badge/Фокус-Системный_Дизайн-111827?style=for-the-badge&logo=dependabot&logoColor=00f5a0" alt="System Design" />
-  <img src="https://img.shields.io/badge/Фокус-Оптимизация_Производительности-111827?style=for-the-badge&logo=nginx&logoColor=00f5a0" alt="Performance Optimization" />
-</p>
-
-<h2 align="center">Tech Arsenal</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,postgres,mysql,docker,git,linux,c&perline=10" alt="Tech Stack" />
-</p>
-
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abudev0&theme=github_dark" alt="Profile Details" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abudev0&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abudev0&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abudev0&theme=github_dark&utcOffset=5" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abudev0&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abudev0&theme=github_dark" alt="Most Commit Language" />
-</div>
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Dark" />
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Light" />
-</div>
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://t.me/abdulazizbek_coder">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="./README.uz.md">
+    <img src="https://img.shields.io/badge/O'zbek-00A86B?style=for-the-badge" alt="Uzbek" />
   </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/English-2563EB?style=for-the-badge" alt="English" />
+  </a>
+  <a href="./README.ru.md">
+    <img src="https://img.shields.io/badge/Русский-DC2626?style=for-the-badge" alt="Russian" />
+  </a>
+</p>
+
+<p align="center">
+  Real language switch:
+  <a href="./README.uz.md">UZ</a> |
+  <a href="./README.en.md">EN</a> |
+  <a href="./README.ru.md">RU</a>
 </p>
