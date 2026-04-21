@@ -2,17 +2,11 @@
   <details>
     <summary><b>Tilni O'zgartirish</b> (bosing)</summary>
     <br />
-    <a href="./README.uz.md">
-      <img src="https://img.shields.io/badge/O'zbek-00A86B?style=for-the-badge" alt="Uzbek" />
-    </a>
     <a href="./README.en.md">
       <img src="https://img.shields.io/badge/English-2563EB?style=for-the-badge" alt="English" />
     </a>
     <a href="./README.ru.md">
       <img src="https://img.shields.io/badge/Русский-DC2626?style=for-the-badge" alt="Russian" />
-    </a>
-    <a href="./README.md">
-      <img src="https://img.shields.io/badge/Home-111827?style=for-the-badge" alt="Home" />
     </a>
   </details>
 </div>
