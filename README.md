@@ -8,23 +8,18 @@
   <img src="https://img.shields.io/github/stars/abudev0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=16a34a" alt="Stars" />
 </div>
 
-<h2 align="center">Choose Language</h2>
-
-<p align="center">
-  <a href="./README.uz.md">
-    <img src="https://img.shields.io/badge/O'zbek-00A86B?style=for-the-badge" alt="Uzbek" />
-  </a>
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/English-2563EB?style=for-the-badge" alt="English" />
-  </a>
-  <a href="./README.ru.md">
-    <img src="https://img.shields.io/badge/Русский-DC2626?style=for-the-badge" alt="Russian" />
-  </a>
-</p>
-
-<p align="center">
-  Real language switch:
-  <a href="./README.uz.md">UZ</a> |
-  <a href="./README.en.md">EN</a> |
-  <a href="./README.ru.md">RU</a>
-</p>
+<div align="center">
+  <details>
+    <summary><b>Language Menu</b> (click)</summary>
+    <br />
+    <a href="./README.uz.md">
+      <img src="https://img.shields.io/badge/O'zbek-00A86B?style=for-the-badge" alt="Uzbek" />
+    </a>
+    <a href="./README.en.md">
+      <img src="https://img.shields.io/badge/English-2563EB?style=for-the-badge" alt="English" />
+    </a>
+    <a href="./README.ru.md">
+      <img src="https://img.shields.io/badge/Русский-DC2626?style=for-the-badge" alt="Russian" />
+    </a>
+  </details>
+</div>
