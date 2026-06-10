@@ -42,7 +42,7 @@ performance, maintainability, and long-term scalability.
 <h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,postgres,mysql,docker,git,linux,c&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,nextjs,postgres,mysql,mongodb,docker,git,linux,c&perline=10" alt="Tech Stack" />
 </p>
 
 <h2 align="center">GitHub Analytics</h2>
